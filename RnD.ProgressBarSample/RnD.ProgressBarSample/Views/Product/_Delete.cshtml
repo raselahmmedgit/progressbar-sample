@@ -1,0 +1,27 @@
+﻿@model RnD.ProgressBarSample.Models.Product
+@using (Ajax.BeginForm("Delete", "Product", null,
+        new AjaxOptions
+        {
+            UpdateTargetId = "deleteProductMess",
+            InsertionMode = InsertionMode.Replace,
+            HttpMethod = "POST",
+            OnSuccess = "AjaxSuccess('deleteProductMess', 'deleteProductDialog', 'commonMessage', 'Product Deleted.')",
+        }, new { @id = "deleteProductForm" }))
+{  
+    
+    <fieldset>
+        <legend>Product:</legend>
+        <div id="deleteProductMess" class="error invisible">
+        </div>
+        @Html.HiddenFor(model => model.ProductId)
+        <div class="display-field">
+            <strong>Product Name: </strong>@Html.DisplayFor(model => model.Name)
+        </div>
+        <div class="display-field">
+            <strong>Price: </strong>@Html.DisplayFor(model => model.Price)
+        </div>
+        <div class="display-field">
+            Do you want delete this product?
+        </div>
+    </fieldset>
+}

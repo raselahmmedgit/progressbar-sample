@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div id="category-list">
+    <h2>
+        Category DataTables Sample</h2>
+    <p>
+        @Html.ActionLink("Create Category", "Create", "Category", new { @class = "lnkAddCategory add-button" })
+    </p>
+    <div id="categorys-data-table">
+        <table id="categoryDataTable" class="dataTable">
+            <thead>
+                <tr>
+                    <th>
+                        Options
+                    </th>
+                    <th>
+                        Category Name
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <div id="addCategoryDialog" title="Add Category">
+    </div>
+    <div id="editCategoryDialog" title="Edit Category">
+    </div>
+    <div id="deleteCategoryDailog" title="Delete Category">
+    </div>
+    <div id="detailsCategoryDialog" title="Details Category">
+    </div>
+</div>
+<script src="@Url.Content("~/Scripts/App/category-jq.js")" type="text/javascript"></script>

@@ -1,0 +1,36 @@
+﻿@model RnD.ProgressBarSample.Models.Product
+@using (Ajax.BeginForm("Create", "Product", null,
+        new AjaxOptions
+        {
+            UpdateTargetId = "addProductMess",
+            InsertionMode = InsertionMode.Replace,
+            HttpMethod = "POST",
+            OnBegin = "AjaxBegin",
+            OnComplete = "AjaxComplete",
+            OnSuccess = "AjaxSuccess('addProductMess', 'addProductDialog', 'commonMessage', 'Product Added.')",
+            OnFailure = "AjaxFailure",
+        }, new { @id = "addProductForm" }))
+{
+    
+    <fieldset>
+        <legend>Product:</legend>
+        @Html.ValidationSummary(true)
+        <div id="addProductMess" class="error invisible">
+        </div>
+        <div class="editor-field">
+            <strong>@Html.LabelFor(model => model.Name): </strong>
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            <strong>@Html.LabelFor(model => model.Price): </strong>
+            @Html.EditorFor(model => model.Price)
+            @Html.ValidationMessageFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+            <strong>@Html.LabelFor(model => model.CategoryId, "Category"): </strong>
+            @Html.DropDownList("CategoryId", String.Empty)
+            @Html.ValidationMessageFor(model => model.CategoryId)
+        </div>
+    </fieldset>
+}

@@ -1,0 +1,16 @@
+﻿/*
+* Full number pagination edit in jquery.dataTables.css
+*/
+.paging_full_numbers
+{
+    padding-bottom: 5px !important;
+}
+
+
+/*
+ * Table information edit in demo_table_jui.css
+ */
+.dataTables_info
+{
+    padding-top: 5px !important;
+}

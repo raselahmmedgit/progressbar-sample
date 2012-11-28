@@ -1,0 +1,13 @@
+﻿@model RnD.ProgressBarSample.Models.Product
+<fieldset>
+    <legend>Product:</legend>
+    <div class="display-field">
+        <strong>Product Name: </strong>@Html.DisplayFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        <strong>Price: </strong>@Html.DisplayFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        <strong>Category Name: </strong>@Html.DisplayFor(model => model.Category.Name)
+    </div>
+</fieldset>

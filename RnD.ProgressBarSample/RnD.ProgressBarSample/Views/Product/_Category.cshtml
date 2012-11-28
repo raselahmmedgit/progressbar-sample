@@ -1,0 +1,17 @@
+﻿@model RnD.ProgressBarSample.ViewModels.CategoryTableModels
+<div class="product-category">
+    @if (Model != null)
+    {
+
+        <div class="display-field">
+            <strong>Category Name: </strong><span>@Html.DisplayFor(model => Model.Name)</span>
+        </div>
+        
+    }
+    else
+    {
+
+        <div class="display-field">
+            <strong>Nothing found - Sorry</strong></div> 
+    }
+</div>
