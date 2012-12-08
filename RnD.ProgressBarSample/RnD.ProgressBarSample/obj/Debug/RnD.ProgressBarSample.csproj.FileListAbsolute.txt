@@ -2,6 +2,6 @@ G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.Progress
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.pdb
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.dll
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.xml
+G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
-G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache

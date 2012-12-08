@@ -1,8 +1,6 @@
 ﻿<RecentFiles>
   <RecentFiles>
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Models/f:AppDbContext.cs" caret="0" fromTop="0" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/f:Site.css" caret="4596" fromTop="15" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/d:App/f:app-style.css" caret="345" fromTop="6" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_DataTablePartial.cshtml" caret="705" fromTop="6" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:DomainViewModels.cs" caret="0" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:TableViewModels.cs" caret="335" fromTop="15" />
@@ -20,18 +18,19 @@
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Models/f:AppModels.cs" caret="0" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/f:Global.asax.cs" caret="1169" fromTop="23" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Category/f:_Create.cshtml" caret="0" fromTop="0" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:Index.cshtml" caret="1174" fromTop="40" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_Layout.cshtml" caret="1443" fromTop="8" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Scripts/d:App/f:category-jq.js" caret="597" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Controllers/f:CategoryController.cs" caret="3093" fromTop="3" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Category/f:Index.cshtml" caret="583" fromTop="19" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Controllers/f:HomeController.cs" caret="427" fromTop="9" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_SocialLinkPartial.cshtml" caret="419" fromTop="6" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/f:Site.css" caret="5751" fromTop="26" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_Layout.cshtml" caret="1165" fromTop="17" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Category/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/d:App/f:app-style.css" caret="63" fromTop="6" />
   </RecentFiles>
   <RecentEdits>
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/f:Site.css" caret="4596" fromTop="15" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/d:App/f:app-style.css" caret="826" fromTop="25" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:TableViewModels.cs" caret="561" fromTop="20" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Helper/f:DataTableParamModel.cs" caret="907" fromTop="24" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Delete.cshtml" caret="28" fromTop="0" />
@@ -50,10 +49,11 @@
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/f:Global.asax.cs" caret="922" fromTop="13" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_Layout.cshtml" caret="1776" fromTop="23" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:Index.cshtml" caret="119" fromTop="6" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Category/f:Index.cshtml" caret="244" fromTop="8" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Category/f:Index.cshtml" caret="240" fromTop="8" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Controllers/f:CategoryController.cs" caret="3093" fromTop="3" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Controllers/f:HomeController.cs" caret="1221" fromTop="24" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Home/f:Index.cshtml" caret="756" fromTop="17" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Home/f:Index.cshtml" caret="748" fromTop="17" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_SocialLinkPartial.cshtml" caret="332" fromTop="4" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/d:App/f:app-style.css" caret="57" fromTop="6" />
   </RecentEdits>
 </RecentFiles>

@@ -4,7 +4,7 @@
     padding-left: 5px !important;
 }
 
-.add-button
+.button
 {
     position: relative !important;
     margin: 0px !important;
@@ -20,14 +20,14 @@
     text-decoration: none !important;
 }
 
-.add-button:hover
+.button:hover
 {
     background: none repeat scroll 0 0 #E8EEF4 !important;
     text-decoration: none !important;
     cursor: pointer !important;
 }
 
-.add-button:active
+.button:active
 {
     background: none repeat scroll 0 0 #E8EEF4 !important;
     text-decoration: none !important;
