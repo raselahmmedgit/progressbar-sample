@@ -69,7 +69,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Helper\DataTableParamModel.cs" />
+    <Compile Include="Helpers\DataTableParamModel.cs" />
     <Compile Include="Models\AppDbContext.cs" />
     <Compile Include="Models\AppModels.cs" />
     <Compile Include="Models\RnD\ProgressBarSampleContext.cs" />

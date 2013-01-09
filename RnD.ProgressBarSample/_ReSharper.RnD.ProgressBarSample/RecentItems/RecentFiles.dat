@@ -4,7 +4,7 @@
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Shared/f:_DataTablePartial.cshtml" caret="705" fromTop="6" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:DomainViewModels.cs" caret="0" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:TableViewModels.cs" caret="335" fromTop="15" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Helper/f:DataTableParamModel.cs" caret="907" fromTop="24" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Helpers/f:DataTableParamModel.cs" caret="907" fromTop="24" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Delete.cshtml" caret="28" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Details.cshtml" caret="28" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Edit.cshtml" caret="28" fromTop="0" />
@@ -32,7 +32,7 @@
   <RecentEdits>
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Content/f:Site.css" caret="4596" fromTop="15" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:ViewModels/f:TableViewModels.cs" caret="561" fromTop="20" />
-    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Helper/f:DataTableParamModel.cs" caret="907" fromTop="24" />
+    <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Helpers/f:DataTableParamModel.cs" caret="907" fromTop="24" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Delete.cshtml" caret="28" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Details.cshtml" caret="28" fromTop="0" />
     <File id="AD1E3AA9-B342-42BE-814C-416067222895/d:Views/d:Product/f:_Edit.cshtml" caret="28" fromTop="0" />

@@ -5,3 +5,17 @@ G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramew
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
 G:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.dll
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.pdb
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.dll
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.xml
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
+E:\Work\RnD Project\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.dll
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.pdb
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.dll
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.xml
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
+C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
