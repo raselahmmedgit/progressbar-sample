@@ -19,3 +19,10 @@ C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\R
 C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.csprojResolveAssemblyReference.cache
 C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
 C:\Users\Developer11\Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.dll
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\RnD.ProgressBarSample.pdb
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.dll
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\bin\EntityFramework.xml
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.dll
+C:\Documents and Settings\Bappi\My Documents\GitHub\progressbar-sample\RnD.ProgressBarSample\RnD.ProgressBarSample\obj\Debug\RnD.ProgressBarSample.pdb
