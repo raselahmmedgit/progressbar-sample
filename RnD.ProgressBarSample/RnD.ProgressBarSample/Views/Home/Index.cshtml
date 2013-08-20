@@ -2,10 +2,10 @@
     ViewBag.Title = "Index";
 }
 <style type="text/css">
-    .ui-dialog-titlebar
+    @*.ui-dialog-titlebar
     {
         display: none;
-    }
+    }*@
     .img-load
     {
         padding: 0px;
@@ -36,30 +36,56 @@
         <div>
         </div>
     </div>
+    @*<div id="appProgressBar">
+        <img class="img-load" src="../Content/Images/App/loading.gif" /></div>*@
 </div>
 <script type="text/javascript">
+
+
 
     function openProgressBar() {
 
         $(document.body).append('<div id="appProgressBar"><img class="img-load" src="../Content/Images/App/loading.gif" /></div>');
 
         $("#appProgressBar").dialog({
-            height: 65,
-            width: 'auto',
+            minHeight: 40,
+            height: 40,
+            width: 40,
+            minWidth: 40,
             resizable: false,
-            modal: true
+            modal: true,
+            open: function () {
+                $(this).dialog("widget").find(".ui-dialog-titlebar").hide();
+            }
         });
+
+        //        $("#appProgressBar").dialog('open');
 
     }
 
     function closeProgressBar() {
 
         $("#appProgressBar").dialog("close");
-        $("#appProgressBar").remove();
+        //$("#appProgressBar").remove();
 
     }
 
     $(document).ready(function () {
+
+        //        $("#appProgressBar").dialog({
+        //            autoOpen: false,
+        //            minHeight: 40,
+        //            height: 40,
+        //            width: 40,
+        //            minWidth: 40,
+        //            resizable: false,
+        //            modal: true,
+        //            create: function () {
+        //                //$(this).dialog("widget").find(".ui-dialog-titlebar").remove();
+        //                //$(this).dialog("widget").find(".ui-dialog-titlebar").hide();
+        //                $(this).closest(".ui-dialog").find(".ui-dialog-titlebar").remove();
+        //            }
+        //        });
 
         // For Get Progress Bar
         $('#lnkGet').live('click', function () {
