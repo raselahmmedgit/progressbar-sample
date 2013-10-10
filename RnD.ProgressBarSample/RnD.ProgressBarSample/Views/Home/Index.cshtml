@@ -9,7 +9,9 @@
     .img-load
     {
         padding: 0px;
-        margin: 5px;
+        margin: 9px;
+        width: auto !important;
+        height: auto !important;
     }
 </style>
 <div id="indexPage">
@@ -36,26 +38,35 @@
         <div>
         </div>
     </div>
-    @*<div id="appProgressBar">
-        <img class="img-load" src="../Content/Images/App/loading.gif" /></div>*@
+    <div id="appProgressBar">
+        <div style="width: 50px !important; min-width: 50px !important; height: 50px !important;
+            min-height: 50px !important;">
+            <img class="img-load" src="../Content/Images/App/loading.gif" /></div>
+    </div>
 </div>
 <script type="text/javascript">
 
-
-
     function openProgressBar() {
 
-        $(document.body).append('<div id="appProgressBar"><img class="img-load" src="../Content/Images/App/loading.gif" /></div>');
+        $("#appProgressBar").dialog('open');
+
+    }
+
+
+    function openProgressBarWithAppend() {
+
+        $(document.body).append('<div id="appProgressBar"><div style="width: 50px !important; min-width: 50px !important; height: 50px !important; min-height: 50px !important;"> <img class="img-load" src="../Content/Images/App/loading.gif" /></div></div>');
 
         $("#appProgressBar").dialog({
-            minHeight: 40,
-            height: 40,
-            width: 40,
-            minWidth: 40,
+            minHeight: 'auto',
+            height: 'auto',
+            width: 'auto',
+            minWidth: 'auto',
             resizable: false,
             modal: true,
             open: function () {
                 $(this).dialog("widget").find(".ui-dialog-titlebar").hide();
+                $(this).dialog("widget").find(".ui-dialog-content").css({ 'padding': '0px !important;' });
             }
         });
 
@@ -72,20 +83,18 @@
 
     $(document).ready(function () {
 
-        //        $("#appProgressBar").dialog({
-        //            autoOpen: false,
-        //            minHeight: 40,
-        //            height: 40,
-        //            width: 40,
-        //            minWidth: 40,
-        //            resizable: false,
-        //            modal: true,
-        //            create: function () {
-        //                //$(this).dialog("widget").find(".ui-dialog-titlebar").remove();
-        //                //$(this).dialog("widget").find(".ui-dialog-titlebar").hide();
-        //                $(this).closest(".ui-dialog").find(".ui-dialog-titlebar").remove();
-        //            }
-        //        });
+        $("#appProgressBar").dialog({
+            autoOpen: false,
+            minHeight: 'auto',
+            height: 'auto',
+            width: 'auto',
+            minWidth: 'auto',
+            resizable: false,
+            modal: true,
+            open: function () {
+                $(this).dialog("widget").find(".ui-dialog-titlebar").hide();
+            }
+        });
 
         // For Get Progress Bar
         $('#lnkGet').live('click', function () {
